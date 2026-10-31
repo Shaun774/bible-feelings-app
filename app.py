@@ -1,12 +1,15 @@
 import json
 from flask import Flask, jsonify, abort, render_template
+from pathlib import Path
 
 app = Flask(__name__)
 
 # Load the content file once, when the app starts
-with open("content.json", encoding="utf-8") as file:
-    content = json.load(file)
+BASE_DIR = Path(__file__).resolve().parent
 
+with open(BASE_DIR / "content.json", encoding="utf-8") as file:
+    content = json.load(file)
+    
 
 @app.route("/")
 def home():
