@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Verses for Your Heart</h1>
+  <p>How are you feeling today?</p>
+
+  <ul>
+    {% for category in categories %}
+      <li><a href="{{ url_for('show_category', category_name=category) }}">{{ category }}</a></li>
+    {% endfor %}
+  </ul>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}{{ situation }} - Verses for Your Heart{% endblock %}
+
+{% block content %}
+  <h1>{{ situation }}</h1>
+
+  <blockquote>
+    <p>{{ entry.verse_text }}</p>
+    <footer>{{ entry.verse_reference }} (KJV)</footer>
+  </blockquote>
+
+  <h2>Reflection</h2>
+  <p>{{ entry.reflection }}</p>
+
+  <h2>Prayer</h2>
+  <p>{{ entry.prayer }}</p>
+
+  <p><a class="button" href="{{ url_for('show_category', category_name=category) }}">Back to {{ category }}</a></p>
+  <p><a class="button" href="{{ url_for('home') }}">Back to feelings</a></p>
+{% endblock %}

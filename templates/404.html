@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block title %}Page not found - Verses for Your Heart{% endblock %}
+
+{% block content %}
+  <h1>Page not found</h1>
+  <p>We could not find what you were looking for. Let us take you back so you can find a verse for how you feel.</p>
+  <a class="button" href="{{ url_for('home') }}">Back to feelings</a>
+{% endblock %}

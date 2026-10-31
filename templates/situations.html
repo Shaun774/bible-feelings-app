@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}{{ category }} - Verses for Your Heart{% endblock %}
+
+{% block content %}
+  <h1>{{ category }}</h1>
+  <p>What best describes what you are facing?</p>
+
+  <ul>
+    {% for situation in situations %}
+      <li><a href="{{ url_for('show_entry', category_name=category, situation_name=situation) }}">{{ situation }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <p><a class="button" href="{{ url_for('home') }}">Back to feelings</a></p>
+{% endblock %}
