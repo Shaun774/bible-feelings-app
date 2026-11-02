@@ -82,3 +82,24 @@ li a:active {
 .button:active {
   background: #ece4d3;
 }
+
+.button-song {
+  background: #3b4a6b;
+  color: #ffffff;
+  border-color: #3b4a6b;
+  font-weight: bold;
+}
+
+.button-song:active {
+  background: #2c3850;
+}
+
+.button-back {
+  background: transparent;
+  color: #6b6b6b;
+  font-size: 0.95rem;
+}
+
+.button-back:active {
+  background: #ece4d3;
+}

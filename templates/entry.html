@@ -16,6 +16,13 @@
   <h2>Prayer</h2>
   <p>{{ entry.prayer }}</p>
 
-  <p><a class="button" href="{{ url_for('show_category', category_name=category) }}">Back to {{ category }}</a></p>
-  <p><a class="button" href="{{ url_for('home') }}">Back to feelings</a></p>
+      {% if song %}
+    <h2>A song for this moment</h2>
+    <a class="button button-song" href="https://www.youtube.com/watch?v={{ song.youtube_id }}" target="_blank" rel="noopener">
+      Listen: {{ song.title }} by {{ song.artist }}
+    </a>
+  {% endif %}
+
+  <a class="button button-back" href="{{ url_for('show_category', category_name=category) }}">Back to {{ category }}</a>
+  <a class="button button-back" href="{{ url_for('home') }}">Back to feelings</a>
 {% endblock %}

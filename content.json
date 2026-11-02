@@ -4,13 +4,36 @@
       "verse_reference": "Psalm 34:18",
       "verse_text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
       "reflection": "You may feel forgotten, isolated, or misunderstood, but your loneliness does not mean you are abandoned. God is close to you, even in moments when His presence feels distant. You do not have to hide your pain from Him. He sees your struggles, understands your heart, and invites you to find comfort in His love.",
-      "prayer": "Heavenly Father, I feel lonely and sometimes struggle to find comfort. Please remind me that I am never forgotten by You. Draw close to my heart, give me strength in moments of sadness, and help me recognize Your presence even when I feel alone. Amen."
+      "prayer": "Heavenly Father, I feel lonely and sometimes struggle to find comfort. Please remind me that I am never forgotten by You. Draw close to my heart, give me strength in moments of sadness, and help me recognize Your presence even when I feel alone. Amen.",
+                 "songs": [
+        { "title": "You Say", "artist": "Lauren Daigle", "youtube_id": "sIaT8Jl2zpI" },
+        { "title": "Who You Say I Am", "artist": "Hillsong Worship", "youtube_id": "lKw6uqtGFfo" },
+        { "title": "Good Good Father", "artist": "Chris Tomlin", "youtube_id": "CqybaIesbuA" },
+        { "title": "Reckless Love", "artist": "Cory Asbury", "youtube_id": "Sc6SSHuZvQE" },
+        { "title": "Oceans (Where Feet May Fail)", "artist": "Hillsong UNITED", "youtube_id": "6GGFb6LcX3U" },
+        { "title": "I Am Not Alone", "artist": "Kari Jobe", "youtube_id": "bfveawSAHJA" },
+        { "title": "Rescue", "artist": "Lauren Daigle", "youtube_id": "KRCqkgE4p-Y" },
+        { "title": "Hold Me Jesus", "artist": "Rich Mullins", "youtube_id": "pjlnXeiA8nM" },
+        { "title": "Abide With Me", "artist": "Songs and Everlasting Joy", "youtube_id": "xXhnZ3uuawM" },
+        { "title": "Be Still, My Soul", "artist": "Hymn", "youtube_id": "hqgC1tqifV8" }
+      ]
     },
     "Grief and loss": {
       "verse_reference": "Matthew 5:4",
       "verse_text": "Blessed are they that mourn: for they shall be comforted.",
       "reflection": "Grief is an expression of love, and it is okay to mourn what you have lost. You do not need to pretend to be strong or rush through your pain. God understands your sorrow and offers comfort to those who mourn. Allow yourself to grieve while trusting that His love will sustain you.",
-      "prayer": "Loving Father, my heart is heavy with grief. You know the pain I carry and the memories I hold close. Please comfort me in my sorrow, give me strength to face each day, and help me find peace in Your loving presence. Amen."
+      "prayer": "Loving Father, my heart is heavy with grief. You know the pain I carry and the memories I hold close. Please comfort me in my sorrow, give me strength to face each day, and help me find peace in Your loving presence. Amen.",
+            "songs": [
+        { "title": "Held", "artist": "Natalie Grant", "youtube_id": "jJhsexd8Qqg" },
+        { "title": "I Can Only Imagine", "artist": "MercyMe", "youtube_id": "8-Y1y_aFL_s" },
+        { "title": "It Is Well", "artist": "Bethel Music", "youtube_id": "8Wb_WD1emFQ" },
+        { "title": "Tell Your Heart to Beat Again", "artist": "Danny Gokey", "youtube_id": "F77v41jbOYs" },
+        { "title": "Just Be Held", "artist": "Casting Crowns", "youtube_id": "tIZitK6_IMQ" },
+        { "title": "Praise You in This Storm", "artist": "Casting Crowns", "youtube_id": "MgpaULjZOl8" },
+        { "title": "Goodness of God", "artist": "Bethel Music", "youtube_id": "9sE5kEnitqE" },
+        { "title": "Amazing Grace (My Chains Are Gone)", "artist": "Chris Tomlin", "youtube_id": "Y-4NFvI5U9w" },
+        { "title": "In Christ Alone", "artist": "Keith & Kristyn Getty", "youtube_id": "m_063OI38RQ" }
+      ]
     },
     "Disappointment": {
       "verse_reference": "Proverbs 3:5-6",

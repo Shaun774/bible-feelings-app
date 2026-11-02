@@ -1,6 +1,7 @@
 import json
 from flask import Flask, jsonify, abort, render_template
 from pathlib import Path
+import random
 
 app = Flask(__name__)
 
@@ -51,11 +52,14 @@ def show_entry(category_name, situation_name):
     if situation_name not in content[category_name]:
         abort(404)
     entry = content[category_name][situation_name]
+    songs = entry.get("songs", [])
+    song = random.choice(songs) if songs else None
     return render_template(
         "entry.html",
         category=category_name,
         situation=situation_name,
         entry=entry,
+        song=song,
     )
 
 @app.errorhandler(404)
