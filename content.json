@@ -39,7 +39,19 @@
       "verse_reference": "Proverbs 3:5-6",
       "verse_text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.",
       "reflection": "Life does not always unfold according to our expectations. Disappointments can make us question ourselves, our decisions, and even our future. But one setback does not define your life. Trust that God can guide you through uncertainty and open new paths when things do not go as planned.",
-      "prayer": "Heavenly Father, I bring my disappointments before You. Help me accept what I cannot change and find the courage to move forward. Give me wisdom to learn from my experiences and faith to trust Your guidance. Amen."
+      "prayer": "Heavenly Father, I bring my disappointments before You. Help me accept what I cannot change and find the courage to move forward. Give me wisdom to learn from my experiences and faith to trust Your guidance. Amen.",
+            "songs": [
+        { "title": "Blessings", "artist": "Laura Story", "youtube_id": "XQan9L3yXjc" },
+        { "title": "Even If", "artist": "MercyMe", "youtube_id": "B6fA35Ved-Y" },
+        { "title": "Do It Again", "artist": "Elevation Worship", "youtube_id": "ZOBIPb-6PTc" },
+        { "title": "Graves into Gardens", "artist": "Elevation Worship", "youtube_id": "KwX1f2gYKZ4" },
+        { "title": "Another in the Fire", "artist": "Hillsong UNITED", "youtube_id": "zmNc0L7Ac5c" },
+        { "title": "Trust in You", "artist": "Lauren Daigle", "youtube_id": "qv-SXz_exKE" },
+        { "title": "Way Maker", "artist": "Sinach", "youtube_id": "iJCV_2H9xD0" },
+        { "title": "Voice of Truth", "artist": "Casting Crowns", "youtube_id": "9cKm_mYVPQE" },
+        { "title": "Great Are You Lord", "artist": "All Sons & Daughters", "youtube_id": "hpb02shcAis" },
+        { "title": "Yet Not I but Through Christ in Me", "artist": "CityAlight", "youtube_id": "hwc2d1Xt8gM" }
+      ]
     }
   },
   "Anxiety": {
@@ -47,7 +59,20 @@
       "verse_reference": "Jeremiah 29:11",
       "verse_text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
       "reflection": "The uncertainty of tomorrow can make today feel overwhelming. You may worry about your career, relationships, finances, or the direction of your life. Remember that you do not have to figure everything out today. Take one step at a time, make wise decisions, and place your future in God's hands.",
-      "prayer": "Dear Lord, I am afraid of what tomorrow may bring. My mind is filled with questions and uncertainty. Please guide my decisions, strengthen my faith, and teach me to trust You one day at a time. Amen."
+      "prayer": "Dear Lord, I am afraid of what tomorrow may bring. My mind is filled with questions and uncertainty. Please guide my decisions, strengthen my faith, and teach me to trust You one day at a time. Amen.",
+            "songs": [
+        { "title": "Whom Shall I Fear (God of Angel Armies)", "artist": "Chris Tomlin", "youtube_id": "bwo7KT95iDg" },
+        { "title": "Fear Is a Liar", "artist": "Zach Williams", "youtube_id": "1srs1YoTVzs" },
+        { "title": "I Know Who Holds Tomorrow", "artist": "Hymn", "youtube_id": "dNN1Z342Iao" },
+        { "title": "Great Is Thy Faithfulness", "artist": "Hymn", "youtube_id": "ErwiBz1QA4o" },
+        { "title": "Never Once", "artist": "Matt Redman", "youtube_id": "722zPX1npcA" },
+        { "title": "Cast My Cares", "artist": "Finding Favour", "youtube_id": "bKuAMmTqUbs" },
+        { "title": "God Is in Control", "artist": "Twila Paris", "youtube_id": "-H9JHdsn-EQ" },
+        { "title": "His Eye Is on the Sparrow", "artist": "Hymn", "youtube_id": "k7Pk5YMkEcg" },
+        { "title": "Cornerstone", "artist": "Hillsong Worship", "youtube_id": "izrk-erhDdk" },
+        { "title": "Hope in Front of Me", "artist": "Danny Gokey", "youtube_id": "9KIhYZQ_ovw" }
+      ]
+      
     },
     "Overthinking and worry": {
       "verse_reference": "Philippians 4:6-7",
